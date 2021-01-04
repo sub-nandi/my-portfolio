@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    font-family: 'Josefin Sans', sans-serif;
+    ;
+}
+
+section {
+    height: 500px;
+    padding-bottom: 150px;
+}
+
+.first-sec h1 {
+    font-size: 900;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.first-sec p {
+    text-align: center;
+    font-size: medium;
+    color: dimgrey;
+}
+
+.first-sec img {
+    margin: auto;
+    padding-left: 40%;
+    width: 20%;
+}
+
+.first-sec .button {
+    text-decoration: none;
+    background-image: linear-gradient(90deg, salmon, red);
+    padding: 10px 20px;
+    color: white;
+    font-weight: bold;
+    margin-left: 45%;
+    margin-top: 10px;
+    border-radius: 30px;
+    border-style: double;
+
+}
+
+.half-width {
+    width: 38%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+
+.half-width img {
+    width: 100%;
+    padding-top: 3%;
+}
