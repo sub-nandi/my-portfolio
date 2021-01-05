@@ -1,7 +1,10 @@
 body {
     margin: 0;
     font-family: 'Josefin Sans', sans-serif;
-    ;
+    background-image: url(images/back3.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
 }
 
 section {
@@ -48,6 +51,15 @@ section {
 }
 
 .half-width img {
-    width: 100%;
-    padding-top: 3%;
+    width: 50%;
+
+}
+
+footer {
+    text-align: center;
+    font-weight: bold;
+    color: cornsilk;
+    background-color: skyblue;
+    height: 80px;
+    padding-top: 20px;
 }
